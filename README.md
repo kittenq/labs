@@ -9,6 +9,8 @@
 
 ```bash
 pip install pandas
+```
+```bash
 pip install requests
 ```
 
@@ -23,7 +25,11 @@ pip install requests
 
 ```bash
 pip install pandas
+```
+```bash
 pip install matplotlib.pyplot
+```
+```bash
 pip install streamlit
 ```
 
@@ -38,11 +44,21 @@ pip install streamlit
 
 ```bash
 pip install numpy
+```
+```bash
 pip install scikit-learn
+```
+```bash
 pip install matplotlib
+```
+```bash
 pip install rasterio
+```
+```bash
 pip install GDAL
 ```
+
+А також встановити GDAL - [OSGeo4W](https://trac.osgeo.org/osgeo4w/)
 
 ### Опис лабораторної роботи
 В цій лабораторній роботі ми працюємо з геопросторовими растровими даними (супутниковими знімками Sentinel та Landsat). 
